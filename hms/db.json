@@ -1,0 +1,255 @@
+{
+  "specialization": [
+    {
+      "id": "1",
+      "special": "Allergy and Immunology"
+    },
+    {
+      "id": "2",
+      "special": "Obstetrics and Gynecology"
+    },
+    {
+      "id": "3",
+      "special": "ENT"
+    },
+    {
+      "id": "4",
+      "special": "physio"
+    },
+    {
+      "id": "5",
+      "special": "Neurology"
+    }
+  ],
+  "patientdata": [
+    {
+      "id": "1",
+      "name": "Ruthvik",
+      "email": "ruthvik@gmail.com",
+      "Address": "Pune",
+      "Contact": "7841849314",
+      "gender": "Male",
+      "Age": "22",
+      "password": "Ruthvik@123",
+      "confirm": "Ruthvik@123"
+    },
+    {
+      "id": "2",
+      "name": "samruddhi",
+      "email": "sam@gmail.com",
+      "Address": "Pune",
+      "Contact": "1234578910",
+      "gender": "Female",
+      "Age": "20",
+      "password": "Sam@1234",
+      "confirm": "Sam@1234"
+    }
+  ],
+  "Doctordata": [
+    {
+      "id": "5",
+      "special": "ENT",
+      "name": "Dr Doshi",
+      "email": "dr.doshi@gmail.com",
+      "contact": "866823141",
+      "date": "2024-04-27",
+      "pass": "Doshi@123",
+      "cpass": "Doshi@123"
+    }
+  ],
+  "BookAppointment": [
+    {
+      "id": "1",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "Ruthvik",
+      "pcontact": "7841849314",
+      "date": "25-05-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "2",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "Ruthvik",
+      "pcontact": "7841849314",
+      "date": "25-05-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "3",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "Ruthvik",
+      "pcontact": "7841849314",
+      "date": "26-05-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "4",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "wef",
+      "pcontact": "123456789",
+      "date": "31-05-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "5",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Raut",
+      "pname": "samruddhi",
+      "pcontact": "123456",
+      "date": "06-06-2024",
+      "time": "11:00 AM"
+    },
+    {
+      "id": "6",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "Ruthvik",
+      "pcontact": "7841849314",
+      "date": "06-06-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "7",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "sam",
+      "pcontact": "7845124741",
+      "date": "06-06-2024",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "8",
+      "specialization": "Allergy and Immunology",
+      "dname": "Dr Rao",
+      "pname": "Ruthvik",
+      "pcontact": "7841849314",
+      "date": "21-06-2024",
+      "time": "10:00 AM"
+    }
+  ],
+  "queries": [
+    {
+      "id": "1",
+      "name": "Ruthvik",
+      "email": "ruthvikwadkar@gmail.com",
+      "phone": "7841849314",
+      "subject": "abc",
+      "message": "abc"
+    }
+  ],
+  "Medicines": {
+    "Data": [
+      "Aspirin",
+      "Amoxicillin",
+      "Azithromycin",
+      "Alprazolam",
+      "Atorvastatin",
+      "Acetaminophen",
+      "Amlodipine",
+      "Ampicillin",
+      "Allopurinol",
+      "Adderall",
+      "Benadryl",
+      "Bisoprolol",
+      "Baclofen",
+      "Bactrim",
+      "Benzonatate",
+      "Bupropion",
+      "Buspirone",
+      "Betamethasone",
+      "Cephalexin",
+      "Ciprofloxacin",
+      "Clindamycin",
+      "Clonazepam",
+      "Cyclobenzaprine",
+      "Citalopram",
+      "Cetirizine",
+      "Doxycycline",
+      "Diazepam",
+      "Duloxetine",
+      "Dexamethasone",
+      "Diphenhydramine",
+      "Diclofenac",
+      "Erythromycin",
+      "Escitalopram",
+      "Esomeprazole",
+      "Ezetimibe",
+      "Enalapril",
+      "Epinephrine",
+      "Furosemide",
+      "Fluoxetine",
+      "Fluticasone",
+      "Famotidine",
+      "Folic Acid",
+      "Gabapentin",
+      "Glipizide",
+      "Guaifenesin",
+      "Gemfibrozil",
+      "Hydrochlorothiazide",
+      "Hydroxychloroquine",
+      "Ibuprofen",
+      "Insulin",
+      "Isoniazid",
+      "Itraconazole",
+      "Isosorbide",
+      "Januvia",
+      "Ketorolac",
+      "Ketoconazole",
+      "Lisinopril",
+      "Levothyroxine",
+      "Lorazepam",
+      "Levofloxacin",
+      "Loratadine",
+      "Losartan",
+      "Metformin",
+      "Metoprolol",
+      "Montelukast",
+      "Methylprednisolone",
+      "Morphine",
+      "Naproxen",
+      "Nifedipine",
+      "Nystatin",
+      "Nitroglycerin",
+      "Nortriptyline",
+      "Omeprazole",
+      "Oxycodone",
+      "Olanzapine",
+      "Ondansetron",
+      "Pantoprazole",
+      "Prednisone",
+      "Propranolol",
+      "Paracetamol",
+      "Penicillin",
+      "Quetiapine",
+      "Quinidine",
+      "Rosuvastatin",
+      "Ranitidine",
+      "Risperidone",
+      "Simvastatin",
+      "Sertraline",
+      "Sildenafil",
+      "Spironolactone",
+      "Tamsulosin",
+      "Tramadol",
+      "Trimethoprim",
+      "Tetracycline",
+      "Valsartan",
+      "Venlafaxine",
+      "Verapamil",
+      "Vitamin D",
+      "Warfarin",
+      "Wellbutrin",
+      "Xanax",
+      "Xarelto",
+      "Xylometazoline",
+      "Yohimbine",
+      "Zolpidem",
+      "Zantac",
+      "Zinc"
+    ]
+  }
+}
